@@ -1,5 +1,11 @@
 ## Hi there 👋
-<img src="https://leetcard.jacoblin.cool/Herish01" width="400" alt="LeetCode Stats" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00FFBF&center=true&vCenter=true&width=1000&lines=Hi+I+am+Herish+Kumar;Leetcode+Problem+Solver;Full+Stack+Developer;Open+Source+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+<h2 align="center">🧠 LeetCode Problem Solving</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Herish01?ext=contest&theme=dark" alt="LeetCode Stats" width="450"/>
+</p>
 <!--
 **herish05/herish05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
